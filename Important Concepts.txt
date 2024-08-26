@@ -1,3 +1,4 @@
 Total Number of Housing Units - Pandas (Apply with Aggregate)
 Submission Types - Pandas (Unstack)
 Counting Instances in Text - SQL
+Monthly Percentage Difference - Pandas (pct_change)
