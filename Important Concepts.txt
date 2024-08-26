@@ -1,4 +1,14 @@
-Total Number of Housing Units - Pandas (Apply with Aggregate)
-Submission Types - Pandas (Unstack)
-Counting Instances in Text - SQL
-Monthly Percentage Difference - Pandas (pct_change)
+Pandas
+
+Total Number of Housing Units - Apply with Aggregate
+Submission Types - Unstack
+Monthly Percentage Difference - pct_change
+Premium vs Freemium - pivot_table
+Top Percentile Fraud - quantile
+Workers with highest salary - nlargest
+
+SQL 
+Counting Instances in Text 
+Popularity Percentage
+Rank Variance Per Country 
+Top Percentile Fraud - percentile_cont
