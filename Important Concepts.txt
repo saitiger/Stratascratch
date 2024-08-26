@@ -1,1 +1,2 @@
-Total Number of Housing Units - Pandas
+Total Number of Housing Units - Pandas (Apply with Aggregate)
+Submission Types - Pandas (Unstack)
